@@ -6,6 +6,6 @@
 
 accountno = input('Please enter a 10 digit account number: ')
 
-print ('xxxxxx' + accountno [6:10])
+print ('xxxxxx' + accountno [6:10])  #W3 Schools and Lecture
 
 # need to try extra part next
