@@ -21,4 +21,5 @@ print(txt.format(total))
 
 
 # added the last two lines after finishing the lab and following the link to the Python tutorial.
+# W3 Schools
 
