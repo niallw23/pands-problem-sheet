@@ -12,3 +12,6 @@ Used the W3 tutorials to help with final part.
 
 Task 03 is accounts.py
 - Have not tried the extra part yet.
+
+Task 04 is collatz.py
+- Working on loops -> if, else, while statements.
