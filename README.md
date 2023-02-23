@@ -15,3 +15,5 @@ Task 03 is accounts.py
 
 Task 04 is collatz.py
 - Working on loops -> if, else, while statements.
+- Needed help from StackOverflow here. Understood some of the loops but struggled with continuation.
+- Used some code that I found easiest to understand, and aim to return to this problem to experiment.

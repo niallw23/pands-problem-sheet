@@ -11,8 +11,19 @@
 
 posint = int(input ('Please enter a positive integer: '))
 
+def collatz(posint):                          #Looked on StackOverflow for help here
+                                              # Most suggestions used a function
+    while posint !=1:
+        if posint% 2 == 0:
+            posint= posint//2
+            print(posint)
 
+        else:
+           posint=  3 * posint + 1
+           print(posint)
 
+collatz (posint)
 
-
-print (posint)
+# Initially tried to solve just using some loops from lectures but could not figure out the continuation.
+# Had the program carrying out the initial calculation.
+# Looked at some solutions that had a continue element but this one was shorter and I found it easier to understand.
