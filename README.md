@@ -17,3 +17,12 @@ Task 04 is collatz.py
 - Working on loops -> if, else, while statements.
 - Needed help from StackOverflow here. Understood some of the loops but struggled with continuation.
 - Used some code that I found easiest to understand, and aim to return to this problem to experiment.
+
+Task 05 is weekday.py
+- A program that outputs whether or not today is a weekday
+- Encouraged to search the web.
+- Some sources [1]
+
+
+
+[1] = https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
