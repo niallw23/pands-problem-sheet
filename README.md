@@ -23,6 +23,17 @@ Task 05 is weekday.py
 - Encouraged to search the web.
 - Some sources [1]
 
+Task 06 is sqrt.py
+- A program that uses a function to output an approximate square root of a number.
+- Suggested reading/research was around the Newton method so as not to use built in functions.
+- Watched a simple YouTube clip around the formula [2]
+- Also looked at some code on the internet [3] that followed a similar idea.
+- Found some other examples on Youtube and Stackoverflow but I found them more complicated to understand as they dealt with estimates and intercepts. [4]
+- Using the reading I was able to write some code that I think accomplishes the task.
+- Had to trust the 'black box' reference with regards the function as it seemed to be accomplishing the task.
 
 
 [1] = https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
+[2] = https://www.youtube.com/watch?v=xdlIFw5EM4w
+[3] = http://www.andreamarino.it/python/thinkcspy/MoreAboutIteration/Newton%27sMethod.html
+[4] = https://stackoverflow.com/questions/20811208/newton-s-method-for-finding-square-roots-in-python
