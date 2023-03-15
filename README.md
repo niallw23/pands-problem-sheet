@@ -34,6 +34,9 @@ Task 06 is sqrt.py
 
 
 [1] = https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
+
 [2] = https://www.youtube.com/watch?v=xdlIFw5EM4w
+
 [3] = http://www.andreamarino.it/python/thinkcspy/MoreAboutIteration/Newton%27sMethod.html
+
 [4] = https://stackoverflow.com/questions/20811208/newton-s-method-for-finding-square-roots-in-python
