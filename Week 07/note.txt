@@ -1,0 +1,4 @@
+This is a sample note.
+It is written to allow me to complete the weekly task.
+There are many letter e's contained within it.
+Hopefully, the program will count the exact amount.
