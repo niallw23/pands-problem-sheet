@@ -32,6 +32,15 @@ Task 06 is sqrt.py
 - Using the reading I was able to write some code that I think accomplishes the task.
 - Had to trust the 'black box' reference with regards the function as it seemed to be accomplishing the task.
 
+The folder Week 07 has the weekly task for Week 7.
+The folder was created to hold the .txt file as well as the .py file.
+
+- This task required research around using command line arguments.
+- I watched a YouTube clip to get some understanding. [5]
+- It pointed me to the python library sys.
+- I looked at some sample code [6]
+- I then tried to combine the video, the code and what was being asked in the weekly task.
+- This helped me with the counting the letters. [7]
 
 [1] = https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
 
@@ -40,3 +49,9 @@ Task 06 is sqrt.py
 [3] = http://www.andreamarino.it/python/thinkcspy/MoreAboutIteration/Newton%27sMethod.html
 
 [4] = https://stackoverflow.com/questions/20811208/newton-s-method-for-finding-square-roots-in-python
+
+[5] = https://www.youtube.com/watch?v=QJBVjBq4c7E
+
+[6] = https://www.geeksforgeeks.org/command-line-arguments-in-python/
+
+[7] = https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
