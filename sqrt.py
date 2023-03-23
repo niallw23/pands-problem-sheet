@@ -7,6 +7,7 @@
 
 num = float(input('Enter a positive floating point number:'))
 
+# reference in readme
 def sqrt(num):
     approx = num * 0.5
     better = 0.5 * (approx + num / approx)
