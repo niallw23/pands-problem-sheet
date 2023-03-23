@@ -42,6 +42,12 @@ The folder was created to hold the .txt file as well as the .py file.
 - I then tried to combine the video, the code and what was being asked in the weekly task.
 - This helped me with the counting the letters. [7]
 
+Task 08 is plottask.py
+- It is a program working on the modules numpy and matplotlib
+- I used the W3 schools for extra help on the normal distribution [8]
+- The lecture was the most help for me to plot the line.
+
+
 [1] = https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
 
 [2] = https://www.youtube.com/watch?v=xdlIFw5EM4w
@@ -55,3 +61,5 @@ The folder was created to hold the .txt file as well as the .py file.
 [6] = https://www.geeksforgeeks.org/command-line-arguments-in-python/
 
 [7] = https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
+
+[8] = https://www.w3schools.com/python/python_ml_normal_data_distribution.asp
