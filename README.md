@@ -12,6 +12,8 @@ Used the W3 tutorials to help with final part.
 
 Task 03 is accounts.py
 - Have not tried the extra part yet.
+- _Updated_ Read more slicing on W3 schools and looked at some examples.
+- The code should now be able to deal with account numbers of any length.
 
 Task 04 is collatz.py
 - Working on loops -> if, else, while statements.
