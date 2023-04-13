@@ -1,5 +1,5 @@
 # pands-problem-sheet
-### Problem Sheet Tasks
+## Problem Sheet Tasks
 Task 01 contains helloworld.py which reads 'Hello World!'
 
 
@@ -50,6 +50,11 @@ Task 08 is plottask.py
 - The lecture was the most help for me to plot the line.
 
 
+## Post Feedback
+### Week 07 Task
+- Made a change to some code in Week 07. It was pointed out that I should try not to use the file = open pattern.
+- The suggested alternative was to use 'with'. I did some reading to understand this further and try to adapt my code.[9]
+
 [1] = https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
 
 [2] = https://www.youtube.com/watch?v=xdlIFw5EM4w
@@ -65,3 +70,5 @@ Task 08 is plottask.py
 [7] = https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
 
 [8] = https://www.w3schools.com/python/python_ml_normal_data_distribution.asp
+
+[9] = https://realpython.com/python-with-statement/
